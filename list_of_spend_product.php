@@ -10,7 +10,7 @@
 		if($conn->query($sqldelete)){
 		echo "Data deleted";
 		echo "<script>
-		setTimeout(function(){window.location='http://localhost/StoreMS/php_files/list_of_spend_product.php';}, 3000);
+		setTimeout(function(){window.location='http://localhost/list_of_spend_product.php';}, 3000);
 				</script>";
 		} else{
 		echo "Error";
