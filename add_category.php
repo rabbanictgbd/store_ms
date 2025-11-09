@@ -1,17 +1,10 @@
 <?php
-	$hostname = 'localhost';
-	$username = 'root';
-	$password = '';
-	$dbname   = 'store_db';
-		
-	$conn = new mysqli ($hostname, $username, $password, $dbname);
-	
-	if($conn){
-		echo '';
-	}else{
-		echo 'databese not connected';
-	}
+	require ('connection.php');
 	include ('sessionstart.php');
+	include ('boot_starp5.php');
+		
+
+
 ?>
 
 <!DOCTYPE html>

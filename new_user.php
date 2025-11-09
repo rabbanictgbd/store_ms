@@ -29,7 +29,7 @@
 					if($conn->query($sql) == TRUE) {
 						echo 'Data Inserted';
 						echo "<script>
-		setTimeout(function(){window.location='http://localhost/index.php';}, 3000);
+		setTimeout(function(){window.location='{$serverLink}index.php';}, 3000);
 				</script>";
 					}else{
 						echo 'Error';
