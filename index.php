@@ -88,10 +88,10 @@ include ('sessionstart.php');
 								<div class="col-sm-3">
 									 
 									<p class=" fa-1x text-danger">Operation & maintenance by </p>
+									<p class="fa-solid fa-admin text-success"> Abdul Kader Rabbani </p>
 								</div>
 								<div class="col-sm-3">
 									
-									<p class="fa-solid fa-admin fa-2x text-success"> Abdul Kader Rabbani & pavel with yousuf </p>
 								</div>
 								
 								<div class="col-sm-3">
