@@ -4,6 +4,9 @@
 	$password = '';
 	$dbname   = 'store_db';
 
+
+	change to config
+
 	$serverLink = "http://localhost/store_ms/";
 	// $serverLink = "http://localhost/store_ms/";
 		
