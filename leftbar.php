@@ -12,11 +12,11 @@
 	<h4 class="bg-success text-white px-2 py-1"> Product </h4>
 	<ul class="list-group m-2"> 
 		<li class="list-group-item"> 
-			<a class="text-dark text-decoration-none" href= "add_Product.php" > Add Product
+			<a class="text-dark text-decoration-none" href= "add_product.php" > Add Product
 			</a> 
 		</li>
 		<li class="list-group-item"> 
-			<a class="text-dark text-decoration-none" href="list_of_Product.php" > Product List
+			<a class="text-dark text-decoration-none" href="list_of_product.php" > Product List
 			</a> 
 		</li>
 	</ul>
