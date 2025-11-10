@@ -60,7 +60,7 @@
 			<a class="text-dark text-decoration-none" href= "report.php" > Report
 			</a> 
 	</ul>
-	<h4 class="bg-success text-white px-2 py-1"> Users </h4>
+	<!-- <h4 class="bg-success text-white px-2 py-1"> Users </h4>
 	<ul class="list-group m-2"> 
 		<li class="list-group-item"> 
 			<a class="text-dark text-decoration-none" href= "add_user.php" > Add User
@@ -70,18 +70,18 @@
 			<a class="text-dark text-decoration-none" href="list_of_user.php" > User List
 			</a> 
 		</li>
-	</ul>
-	<h4 class="bg-success text-white px-2 py-1"> DataBase </h4>
+	</ul> -->
+	<!-- <h4 class="bg-success text-white px-2 py-1"> DataBase </h4>
 	<ul class="list-group m-2"> 
 		<li class="list-group-item"> 
 			<a class="text-dark text-decoration-none" href= "data_base_format.html" > Table structure
 			</a> 
 		</li>
-	</ul>
+	</ul> -->
 	<h4 class="bg-success text-white px-2 py-1"> About us </h4>
 	<ul class="list-group m-2"> 
 		<li class="list-group-item"> 
-			<a class="text-dark text-decoration-none" href= "my_web_page.php" > About me
+			<a class="text-dark text-decoration-none" href= "https://rabbani-portfolio.web.app/" > About me
 			</a> 
 		</li>
 	</ul>
