@@ -1,5 +1,6 @@
 <?php
-	require ('connection.php');
+		require ('connection.php');
+	require ('config.php');
 	require ('myfunction.php');
 	
 	include ('boot_starp5.php');

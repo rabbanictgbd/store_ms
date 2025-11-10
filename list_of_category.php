@@ -1,6 +1,7 @@
 
 <?php
-	require ( 'connection.php');
+		require ('connection.php');
+	require ('config.php');
 	include ('sessionstart.php');
 ?>
 

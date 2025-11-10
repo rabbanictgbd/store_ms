@@ -2,7 +2,8 @@
 
 function data_list ($tablename, $column1, $column2){
 	
-	require ('connection.php');
+		require ('connection.php');
+	require ('config.php');
 	
 	$sql = "SELECT * FROM $tablename";
 				

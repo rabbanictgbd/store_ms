@@ -1,5 +1,6 @@
 <?php
-	require ('connection.php');
+		require ('connection.php');
+	require ('config.php');
 	require ('myfunction.php');
 	
 	include ('boot_starp5.php');
@@ -29,7 +30,7 @@
 					if($conn->query($sql) == TRUE) {
 						echo 'Data Inserted';
 						echo "<script>
-		setTimeout(function(){window.location='http://localhost/index.php';}, 3000);
+		setTimeout(function(){window.location='{$serverLink}index.php';}, 3000);
 				</script>";
 					}else{
 						echo 'Error';
